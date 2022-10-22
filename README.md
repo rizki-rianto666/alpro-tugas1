@@ -7,4 +7,4 @@ M. Rizki Rianto
 **NIM**
 I.2201881
 
-![Screenshot Workflow Alpro](C:\Users\HP\Pictures\Screenshots\ssworkflow.png "Workflow Tugas Alpro 1")
+![image workflow](ssworkflow.png)
