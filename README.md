@@ -1,7 +1,10 @@
-<p align="center">
-# alpro-tugas1
-## Tugas Algoritma Pemrograman 1
+# <p align="center">
+ alpro-tugas1 
 </p>
+
+## Tugas Algoritma Pemrograman 1  
+
+
 **NAMA LENGKAP**  
 M. Rizki Rianto  
   
