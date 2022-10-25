@@ -9,4 +9,4 @@ M. Rizki Rianto
 NIM :  
 I.2201881  
   
-![image workflow](ssworkflow.png)
+![image workflow](screenshot_workflow_alpro-tugas1.png)
